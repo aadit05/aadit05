@@ -1,0 +1,35 @@
+/Create an HTML file (index.html):/
+/html/
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Netflix </title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="netflix-logo.png" alt="Netflix Logo">
+        </div>
+        <nav>
+            <!-- Navigation menu (e.g., Home, TV Shows, Movies, etc.) -->
+        </nav>
+    </header>
+
+    <main>
+        <section class="banner">
+            <!-- Netflix-like banner with background image and content -->
+        </section>
+
+        <section class="movies">
+            <!-- Display a list of movie posters or content similar to Netflix's homepage -->
+        </section>
+    </main>
+
+    <footer>
+        <!-- Footer content, links, and social media icons -->
+    </footer>
+</body>
+</html>
